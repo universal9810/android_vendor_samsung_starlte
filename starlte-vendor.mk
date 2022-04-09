@@ -60,5 +60,4 @@ PRODUCT_PACKAGES += \
     libOMX.Exynos.HEVC.WFD.Encoder \
     sensors.sensorhub \
     librecordalive \
-    libwvhidl \
     libkeymaster_helper_vendor

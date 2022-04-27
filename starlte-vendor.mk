@@ -52,6 +52,5 @@ PRODUCT_PACKAGES += \
     libexynoscamera3 \
     libhifistill \
     libopenvx \
-    libwrappergps \
     librecordalive \
     libkeymaster_helper_vendor

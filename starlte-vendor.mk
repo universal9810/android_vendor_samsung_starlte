@@ -53,8 +53,5 @@ PRODUCT_PACKAGES += \
     libhifistill \
     libopenvx \
     libwrappergps \
-    libOMX.Exynos.AVC.Encoder \
-    libOMX.Exynos.HEVC.Encoder \
-    libOMX.Exynos.HEVC.WFD.Encoder \
     librecordalive \
     libkeymaster_helper_vendor
